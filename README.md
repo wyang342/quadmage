@@ -1,2 +1,2 @@
 # QuadMage
-C# script for my game [QuadMage](https://wyang342.itch.io/quadmage).
+C# scripts for my game [QuadMage](https://wyang342.itch.io/quadmage).
